@@ -2,4 +2,4 @@
 
 clone
 
-chmod +x first_install.sh && ./first_install
+chmod +x first_install.sh && ./first_install.sh
